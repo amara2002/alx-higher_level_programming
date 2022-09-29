@@ -7,7 +7,3 @@ elif number == 0;
        print(f"{number:d} is zero")
 else:
        print(f"{number:d} is negative")
-@ 2022 Github, Inc.
-Footer navigation
-Terms
-Privacy
