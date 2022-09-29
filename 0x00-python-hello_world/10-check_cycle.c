@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "lists.h"
 
 /**
@@ -8,8 +6,8 @@
  *
  * Return: 1 if the list has a cycle, 0 if it does't
  */
- int check_cycle(listint_t *list)
- {
+int check_cycle(listint_t *list)
+{
        listint_t *slow = list;
        listint_t *fast = list;
 
@@ -24,4 +22,4 @@
                         return (1);
        }
          return (0);
- }
+}
