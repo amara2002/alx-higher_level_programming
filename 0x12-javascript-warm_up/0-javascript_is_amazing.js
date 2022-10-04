@@ -6,9 +6,8 @@
  * Return: 0 after exetion
  */
 
-const myVar = "JavaScript is amazing";
-
-console.log(myVar);
+const mytask = "JavaScript is amazing";
+console.log(mytask);
 
 
 
