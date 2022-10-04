@@ -1,6 +1,8 @@
 #!/usr/bin/node
+// Enter string
+//push
 const mytask = "JavaScript is amazing";
-console.log(mytas;
+console.log(mytask);
 
 
 
