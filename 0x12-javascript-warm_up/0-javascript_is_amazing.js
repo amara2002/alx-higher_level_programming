@@ -1,6 +1,6 @@
 #!/usr/bin/node
 const mytask = "JavaScript is amazing";
-console.log(mytask);
+console.log(mytas;
 
 
 
