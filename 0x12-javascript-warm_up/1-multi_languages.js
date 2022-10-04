@@ -1,4 +1,10 @@
 #!/usr/bin/node
+/*
+first print a
+second print b
+third print c
+*/
+
 let a = "C is fun";
 let b = "Python is cool";
 let c = "JavaScript is amazing";
