@@ -4,6 +4,6 @@
  *
  *Return: 0 after exetion
  */
-const myName = "JavaScript is amazing";
-console.log(myName);
+const myVar = "JavaScript is amazing";
+console.log("JavaScript is amazing);
 
